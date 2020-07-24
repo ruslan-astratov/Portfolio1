@@ -2970,7 +2970,7 @@ button {
   .left-info-column::after {
     content: "";
     position: absolute;
-    z-index: 0;
+    z-index: -1;
     top: -1px;
     left: -70%;
     width: 448px;
